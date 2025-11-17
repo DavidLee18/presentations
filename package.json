@@ -1,9 +1,6 @@
 {
   "name": "presentations",
   "module": "index.ts",
-  "scripts": {
-    "build": "exit 1"
-  },
   "devDependencies": {
     "@marp-team/marp-cli": "^4.2.3",
     "@types/bun": "latest"
